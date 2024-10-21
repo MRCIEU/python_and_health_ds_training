@@ -10,7 +10,7 @@ We will include examples from biomedical research and hands-on exercises using e
 
 Materials and datasets for the training will be added one day before the course.
 
-# Staffs
+## Staffs
 - Zhaozhen Xu [zhaozhen.xu@bristol.ac.uk]
 - Yi Liu [yi6240.liu@bristol.ac.uk]
 - Weili Qiu [w.qiu@bristol.ac.uk]
