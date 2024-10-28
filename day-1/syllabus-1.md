@@ -9,7 +9,9 @@ The overall aim for day 1 is to understand the basics in working with python and
 - Basics in setting up the working environment and associated tools (e.g. Jupyter Notebook) 
 - Basics of writing code in python 
 
-# Material: Jupyter Notebook
+# Material
+
+Jupyter Notebook
 
 # Timetable
 
@@ -52,7 +54,9 @@ Understand the basic syntax of python
 - How to deal with errors 
 - Wrapping things up from jupyter code blocks to a python script 
 
-**15:30 - 17:00 Hands on: Working with Jupyter Notebook**
+**15:00 – 15:15 Break**
+
+**15:15 - 17:00 Hands on: Working with Jupyter Notebook**
 
 Hands on practice on what you have learned today 
 - Installing new packages and reload the environment 
