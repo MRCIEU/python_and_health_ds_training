@@ -11,8 +11,6 @@ The overall aim for day 1 is to understand the basics in working with python and
 
 # Material: Jupyter Notebook
 
-----
-
 # Timetable
 
 **09:30 - 09:45 Introduction of the three-day course**
@@ -22,7 +20,7 @@ The overall aim for day 1 is to understand the basics in working with python and
 - What python is 
 - Why do you need Python in a data science project, on top of other things (R, database, shell, etc). 
 
-**10:00 - 10:30 Lecture: Environment for working with a python project **
+**10:00 - 10:30 Lecture: Environment for working with a python project**
 
 Understand how to properly work with a python-based project 
 - The conda environment 
@@ -34,7 +32,8 @@ Understand how to properly work with a python-based project
 
 **10: 30 – 10: 45 Break**
 
-**10:45 - 12:00 Basic python syntax **
+**10:45 - 12:00 Basic python syntax**
+
 Understand the basic syntax of python 
 - Variables and primary data types (str, float, int) 
 - list, dict, set 
@@ -43,9 +42,9 @@ Understand the basic syntax of python
 - for loop, while loop 
 - iteration: zip 
 
-**12:00 - 13:00 Lunch break **
+**12:00 - 13:00 Lunch break**
 
-**13:00 - 15:00 python scripting **
+**13:00 - 15:00 python scripting**
 - The structure of a python script 
 - import package and functions from package 
 - function, function arguments, and return 
@@ -53,7 +52,8 @@ Understand the basic syntax of python
 - How to deal with errors 
 - Wrapping things up from jupyter code blocks to a python script 
 
-**15:30 - 17:00 Hands on: Working with Jupyter Notebook **
+**15:30 - 17:00 Hands on: Working with Jupyter Notebook**
+
 Hands on practice on what you have learned today 
 - Installing new packages and reload the environment 
 - Importing functions from libraries 
