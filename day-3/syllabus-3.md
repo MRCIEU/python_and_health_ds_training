@@ -1,4 +1,4 @@
-# Day 3 (11 Nov): Machine Learning and Large Language Model Fundamentals (Zhaozhen Xu)
+# Day 3 (11 Nov): Machine Learning and Large Language Model Fundamentals - Zhaozhen Xu
 
 Morning 9:30 - 12:00
 

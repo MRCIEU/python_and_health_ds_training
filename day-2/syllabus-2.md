@@ -1,4 +1,4 @@
-# Day 2 (5 Nov): Working with Data Source (Weili Qiu)
+# Day 2 (5 Nov): Working with Data Source - Weili Qiu
 
 Morning 9:30 - 12:00
 

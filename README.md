@@ -8,7 +8,7 @@ This course is suitable for PGR students in the Medical School with limited/no e
 
 We will include examples from biomedical research and hands-on exercises using existing biomedical datasets (e.g., breast cancer Wisconsin dataset, and the WHO COVID-19 dataset). 
 
-Materials and datasets for the training will be added one day before the course.
+Materials for the training will be added before the course.
 
 ## Staffs
 - Zhaozhen Xu [zhaozhen.xu@bristol.ac.uk]
@@ -20,8 +20,14 @@ Materials and datasets for the training will be added one day before the course.
 # [Day 1: Python Basic (4 Nov)](./day-1/)
 For a day in Python 101, we will cover basic elements of the Python programming language, including variables, data structures, control structures, functions, etc. We will also introduce tools for running code in Python, such as the Jupyter Notebook environment and the Visual Studio Code text editor.
 
+- [Syllabus](./day-1/syllabus-1.md)
+
 # [Day 2: Working with Data Source (5 Nov)](./day-2/)
 We will go through the process of working with a data source, starting by getting the data from an external source (e.g., the WHO COVID-19 dataset). Then, we will introduce some libraries (e.g. Numpy, Pandas, Seaborn) for handling and visualising the data.
 
+- [Syllabus](./day-2/syllabus-2.md)
+
 # [Day 3: Machine Learning and Large Language Model Fundamentals (11 Nov)](./day-3/)
 We will introduce machine learning and large language models and give some examples of their application in biomedical research. As machine learning is a broad topic, we would like to give some basic ideas about it in this one-day tutorial so the students can explore it further in their future research.
+
+- [Syllabus](./day-3/syllabus-3.md)
