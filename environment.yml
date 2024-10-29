@@ -1,0 +1,13 @@
+name: python-training
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - notebook
+  - matplotlib
+  - numpy
+  - pandas
+  - request
+  - scikit-learn
+  - pip
