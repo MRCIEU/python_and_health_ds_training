@@ -28,6 +28,6 @@ If you prefer a graphical tool, you can download and install anaconda from here 
 
 If the installation is successful, you should be able to find and launch the Anaconda Navigator (see below) from your operating system.
 
-![Anaconda Navigator](./assets/anaconda-navigator.org)
+![Anaconda Navigator](./assets/anaconda-navigator.png)
 
 # Create the conda environment
