@@ -31,9 +31,9 @@ If the installation is successful, you should be able to find and launch the Ana
 ![Anaconda Navigator](./assets/anaconda-navigator.png)
 
 The following resources might be useful for using the Navigator tool:
-- TODO
-- TODO
-- TODO
+- https://docs.anaconda.com/navigator/
+- https://s4.ad.brown.edu/python2020/software.html
+- https://www.lancaster.ac.uk/staff/drummonn/PHYS281/demo-anaconda/
 
 ## Using command line (miniconda)
 
@@ -46,7 +46,7 @@ You should download miniconda from this page https://docs.anaconda.com/miniconda
 As shown in the figure below, go to the "Environments" tab (<span style="color:blue">blue</span>) in Navigator
 and select "Import" (<span style="color:red">red</span>) and load the environment.yml file. You could choose to rename the environment to "python-training" or other names (optional).
 
-If your installation is successful, you should be able to see the "python-training" name appear (<span style="color:green">green</span>)
+If your installation is successful, you should be able to see the "python-training" name appear (<span style="color:green">green</span>).
 
 ![navigator-create-env](./assets/navigator-create-env.png)
 
