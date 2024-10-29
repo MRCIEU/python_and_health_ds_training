@@ -5,9 +5,10 @@ channels:
 dependencies:
   - python=3.12
   - notebook
-  - matplotlib
   - numpy
   - pandas
-  - request
+  - matplotlib
+  - seaborn
+  - requests
   - scikit-learn
   - pip
