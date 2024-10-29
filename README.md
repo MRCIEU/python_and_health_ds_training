@@ -10,15 +10,15 @@ We will include examples from biomedical research and hands-on exercises using e
 
 Materials for the training will be added before the course.
 
-## Staffs
-- Zhaozhen Xu [zhaozhen.xu@bristol.ac.uk]
-- Yi Liu [yi6240.liu@bristol.ac.uk]
-- Weili Qiu [w.qiu@bristol.ac.uk]
+## Speakers
+- Zhaozhen Xu, zhaozhen.xu [at] bristol.ac.uk
+- Yi Liu, yi6240.liu [at] bristol.ac.uk
+- Weili Qiu, w.qiu [at] bristol.ac.uk
 
 # [Pre-Course Material](./pre-course-installation-guide.md)
 Please ensure you read the [pre-course-installation-guide](./pre-course-installation-guide.md) to setup the Python environment before the course.
 
-If you have any question, we will have a drop-in session from 13:00 to 14:00 at OS6, Oakfield House, BS8 2BN.
+If you have any question, we will have a drop-in session from 13:00 to 14:00 at OS6 (2nd floor), Oakfield House, BS8 2BN.
 
 
 # [Day 1: Python Basic (4 Nov)](./day-1/)
@@ -27,7 +27,7 @@ For a day in Python 101, we will cover basic elements of the Python programming 
 - [Syllabus](./day-1/syllabus-1.md)
 
 # [Day 2: Working with Data Source (5 Nov)](./day-2/)
-We will go through the process of working with a data source, starting by getting the data from an external source (e.g., the WHO COVID-19 dataset). Then, we will introduce some libraries (e.g. Numpy, Pandas, Seaborn) for handling and visualising the data.
+We will go through the process of working with a data source, starting by getting the data from an external source (e.g., the WHO COVID-19 dataset). Then, we will introduce some libraries (e.g. Numpy, Pandas, Matplotlib) for handling and visualising the data.
 
 - [Syllabus](./day-2/syllabus-2.md)
 
