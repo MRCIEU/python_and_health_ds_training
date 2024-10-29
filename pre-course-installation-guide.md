@@ -11,7 +11,7 @@ The main steps are:
 If you have trouble with the steps, please carefully read the guide on the relevant pages (e.g. steps which might defer depending on your operating system).
 You could also come to the drop-in session.
 
-**Drop-in Session:** 13:00 - 14:00, Friday, 1 Nov, at OS6, Oakfield House, BS8 2BN
+**Drop-in Session:** 13:00 - 14:00, Friday 1 Nov, at OS6 (2nd floor), Oakfield House, BS8 2BN
 
 # Step 1: Save the environment file
 
@@ -20,6 +20,8 @@ If you do not know how to use git and git repositories, you should save the link
 https://github.com/MRCIEU/python_and_health_ds_training/raw/refs/heads/main/environment.yml
 
 If you have already known how to work with git repositories, you could also clone this repository locally and use the local environment.yml file there.
+
+Please avoid using a directory with whitespaces in it. E.g. `D:\My work\PythonShortCourse` is not a good one as it contains whitespace between `My` `work`. This is likely to cause a problem on Windows, while Mac may also suffer.
 
 # Step 2: Install a conda distribution
 
