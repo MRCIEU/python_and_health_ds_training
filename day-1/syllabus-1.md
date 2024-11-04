@@ -32,22 +32,23 @@ Understand how to properly work with a python-based project
 
 **10:45 - 12:00 Basic python syntax**
 
-Understand the basic syntax of python 
-- Variables and primary data types (str, float, int) 
-- list, dict, set 
-- Basic syntax 
-- if else 
-- for loop, while loop 
+- Basic data types
+  - numerics
+  - boolean
+  - strings
+- control flows
+  - if else 
+  - for loop, while loop 
+  - break, continue, pass
 
 **12:00 - 13:00 Lunch break**
 
-**13:00 - 15:00 python scripting**
-- The structure of a python script 
-- Running python script in the command line 
-- import package and functions from package 
-- function, function arguments, and return 
+**13:00 - 15:00 Basic python syntax, part 2**
+- Container data types
+  - list, tuple, dict
+- iterations
+- function, and function arguments and returns
 - write functions in another file and import these functions 
-- How to deal with errors 
 - Wrapping things up from jupyter code blocks to a python script 
 
 **15:00 – 15:15 Break**
