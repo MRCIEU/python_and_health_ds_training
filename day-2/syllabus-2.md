@@ -76,6 +76,8 @@ Use: OpenGWAS (semantic), EBI (RESTful), and PubMed (homework / only if there is
 
 **15:30 - 16:00 Miscellaneous (optional, depending on time)**
 
+NOTE: This part was not delivered because we spent more time in the morning reviewing what we learned in Day 1.
+
 Performance and Best Practice
 
 - Searching for an element in Python list, dict and set
