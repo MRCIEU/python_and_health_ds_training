@@ -2,6 +2,10 @@
 
 This guide will help you set up the working environment (a conda virtual environment) for this project.
 
+Please refer to the following link for a basic idea of Conda, Python, and Environment.
+
+https://freelearning.anaconda.cloud/get-started-with-anaconda
+
 The main steps are:
 1. Save the environment file
 2. Install a conda distribution
